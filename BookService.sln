@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService", "BookService\BookService.csproj", "{90F71785-5E07-4FB2-B3AF-C21030F9004A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookService.Tests", "BookService.Tests\BookService.Tests.csproj", "{0A29CF57-AF53-4A74-9361-E5968D0D5ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F71785-5E07-4FB2-B3AF-C21030F9004A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F71785-5E07-4FB2-B3AF-C21030F9004A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F71785-5E07-4FB2-B3AF-C21030F9004A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F71785-5E07-4FB2-B3AF-C21030F9004A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A29CF57-AF53-4A74-9361-E5968D0D5ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A29CF57-AF53-4A74-9361-E5968D0D5ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A29CF57-AF53-4A74-9361-E5968D0D5ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A29CF57-AF53-4A74-9361-E5968D0D5ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524DED84-36B1-4FC9-996E-A3EEFD810889}
+	EndGlobalSection
+EndGlobal
